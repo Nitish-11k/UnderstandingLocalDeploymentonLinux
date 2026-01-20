@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ns2dFzReUffg0i2zZJb5s0bEz9rVONcRYnfPeVvsICw=",
+  "Source": "BackenApi",
+  "BasePath": "_content/BackenApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
